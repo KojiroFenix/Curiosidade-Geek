@@ -1,3 +1,5 @@
 ![preview](./assests/Untitled.png)
 
-Aprimorei minhas habilidades com design e na programação.
+Aprimoramos nossas habilidades com design e na programação.
+Nome: Fhilipe Clementino Ribeiro.
+Nome: Andrew Rafael.
